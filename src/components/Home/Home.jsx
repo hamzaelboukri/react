@@ -8,9 +8,9 @@ import Type from "./Type";
 function Home() {
   return (
     <section>
-      <Container fluid className="home-section" id="home">
+      <div className="home-section" id="home">
         <Particle />
-        <Container className="home-content">
+        <div className="home-content">
           <Row>
             <Col md={7} className="home-header">
               <h1 style={{ paddingBottom: 15 }} className="heading">
@@ -22,7 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> Mohammed Elarbi El Hattab</strong>
+                <strong className="main-name">Hamza ELboukri</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -39,8 +39,8 @@ function Home() {
               />
             </Col>
           </Row>
-        </Container>
-      </Container>
+        </div>
+      </div>
       <Home2 />
     </section>
   );

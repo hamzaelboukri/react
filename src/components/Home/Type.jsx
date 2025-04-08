@@ -8,8 +8,9 @@ function Type() {
         strings: [
           "Software Developer",
           "Freelancer",
-          "Java Angular Developer",
-          "Laravel Vue.js Developer",
+          "Web Developer",
+          "designer",
+          "Laravel Developer",  
         ],
         autoStart: true,
         loop: true,

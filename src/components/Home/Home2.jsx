@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/7O2A0063.jpg";
+import myImg from "../../Assets/7O2A3107.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,32 +19,33 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming, and I’ve at least learned something along the way… I think… 🤷‍♂️
+              I fell in love with web development, and I’ve learned a lot along the way as a Laravel Developer.
               <br />
               <br />
-              I am fluent in classics like
+              I specialize in backend development using
               <i>
-                <b className="purple"> Java, PHP, and JavaScript. </b>
+                <b className="purple"> Laravel, PHP, and MySQL. </b>
               </i>
               <br />
               <br />
-              My field of interest lies in building new &nbsp;
+              My passion lies in building robust
               <i>
-                <b className="purple">Web Technologies and Products, </b>
+                <b className="purple"> Web Applications, RESTful APIs, and Modern Designs, </b>
               </i>
-              and I’m particularly passionate about creating seamless user experiences and robust backend systems that power modern applications.
+              and I enjoy designing secure, scalable architectures that deliver strong performance.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products with
-              <b className="purple"> Spring Boot, Angular, </b>
+              I’m also familiar with frontend technologies and like integrating them with
+              <b className="purple"> Blade Templates, React, </b>
               and
               <i>
-                <b className="purple"> Modern JavaScript Frameworks </b>
+                <b className="purple"> modern JavaScript tools </b>
               </i>
-              &nbsp; like
+              &nbsp; such as
               <i>
-                <b className="purple"> Vue.js. </b>
+                <b className="purple"> Vue.js </b>
               </i>
+              to create seamless user interfaces.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -54,9 +55,9 @@ function Home2() {
                 className="img-fluid"
                 alt="avatar"
                 style={{
-                  marginTop: '80px',
-                  width: '350px', 
-                  }}
+                  marginTop: "80px",
+                  width: "350px",
+                }}
               />
             </Tilt>
           </Col>
@@ -70,7 +71,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/MedELHattab"
+                  href="https://github.com/hamzaelboukri"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -80,7 +81,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/mohamed-elarbi-elhattab/"
+                  href="https://www.linkedin.com/in/hamza-elboukri-374499335/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -90,7 +91,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/mohamed-elarbi-elhattab/"
+                  href="https://www.linkedin.com/in/hamza-elboukri-374499335/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -99,8 +100,9 @@ function Home2() {
                 </a>
               </li>
               <li className="social-icons">
+              
                 <a
-                  href="https://www.linkedin.com/in/mohamed-elarbi-elhattab/"
+                  href="https://www.instagram.com/regex._01/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
@@ -115,4 +117,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
