@@ -1,0 +1,32 @@
+[
+    {
+      "imgPath": "https://example.com/ebankify.jpg",
+      "title": "Ebankify",
+      "description": "Ebankify is a full-stack banking application designed to provide users with a seamless and secure banking experience. The system includes features such as user management, account management, transaction processing, and loan management. Built with a robust architecture, Ebankify ensures high performance, scalability, and reliability.",
+      "ghLink": "https://github.com/MedELHattab/E-Bankify.git"
+    },
+    {
+      "imgPath": "https://example.com/citronix.webp",
+      "title": "Citronix",
+      "description": "Citronix is a comprehensive farming and harvest management system designed to streamline agricultural operations, improve productivity, and optimize resource management. The system provides tools for crop planning, harvest tracking, inventory management, and data analytics to help farmers make informed decisions and maximize yields.",
+      "ghLink": "https://github.com/MedELHattab/M_Citronix.git"
+    },
+    {
+      "imgPath": "https://example.com/batiCuisine.jpg",
+      "title": "BatiCuisine",
+      "description": "BatiCuisine is a Java application designed for professionals in the construction and renovation of kitchens. The application calculates the total cost of the work by taking into account the materials used and the cost of labor, which is billed on an hourly basis.",
+      "ghLink": "https://github.com/MedELHattab/BatiCuisine.git"
+    },
+    {
+      "imgPath": "https://example.com/medcommerce.png",
+      "title": "MedCommerce",
+      "description": "MedCommerce is a full-stack e-commerce platform designed to provide users with a seamless online shopping experience. The platform includes features such as product browsing, shopping cart management, user authentication, and order processing.",
+      "ghLink": "https://github.com/MedELHattab/MedCommerce.git"
+    },
+    {
+      "imgPath": "https://example.com/evanto.webp",
+      "title": "Evanto",
+      "description": "Evanto is an event ticket management system designed to streamline the process of organizing, selling, and managing event tickets. The system provides event organizers with tools to create events, manage ticket sales, and track attendee information, while offering users a seamless experience for purchasing and managing their tickets.",
+      "ghLink": "https://github.com/MedELHattab/Evento.git"
+    }
+  ]

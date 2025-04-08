@@ -1,41 +1,30 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  // SiVisualstudioCode,a
   SiPostman,
-  SiSlack,
-  SiVercel,
-  SiMacos,
   SiDocker,
-  SiIntellijidea,
+  SiAdobe, // Using SiAdobe instead of FaAdobe
 } from "react-icons/si";
+import { FaFigma } from "react-icons/fa"; // FaFigma is correct
 
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      {/* Visual Studio Code */}
-      <Col xs={4} md={2} className="tech-icons">
-        {/* <SiVisualstudioCode/> */}
-      </Col>
       {/* Postman */}
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
-      </Col>
-      {/* Slack */}
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
-      </Col>
-      {/* Vercel */}
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
       </Col>
       {/* Docker */}
       <Col xs={4} md={2} className="tech-icons">
         <SiDocker />
       </Col>
-      {/* IntelliJ IDEA */}
+      {/* Figma */}
       <Col xs={4} md={2} className="tech-icons">
-        <SiIntellijidea />
+        <FaFigma />
+      </Col>
+      {/* Adobe */}
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAdobe />
       </Col>
     </Row>
   );
