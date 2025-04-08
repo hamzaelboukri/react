@@ -21,8 +21,26 @@ function App() {
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
+      
     const timer = setTimeout(() => {
       upadateLoad(false);
+
+      // fetch('https://api.jsonbin.io/v3/b/67f53cee8a456b796684f131' , {
+      //   method: 'GET',
+      //   headers: {
+      //     'Content-Type': 'application/json'
+      //   }
+      // })
+      // .then(response => {
+      //   if (!response.ok) {
+      //     throw new Error('Network response was not ok');
+      //   }
+      //   return response.json();
+      // })
+      // .then(data => {
+      //   console.log(data);
+      // })
+
     }, 1200);
 
     return () => clearTimeout(timer);

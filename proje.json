@@ -1,32 +1,27 @@
 [
-    {
-      "imgPath": "https://example.com/ebankify.jpg",
-      "title": "Ebankify",
-      "description": "Ebankify is a full-stack banking application designed to provide users with a seamless and secure banking experience. The system includes features such as user management, account management, transaction processing, and loan management. Built with a robust architecture, Ebankify ensures high performance, scalability, and reliability.",
-      "ghLink": "https://github.com/MedELHattab/E-Bankify.git"
-    },
+ 
     {
       "imgPath": "https://example.com/citronix.webp",
-      "title": "Citronix",
-      "description": "Citronix is a comprehensive farming and harvest management system designed to streamline agricultural operations, improve productivity, and optimize resource management. The system provides tools for crop planning, harvest tracking, inventory management, and data analytics to help farmers make informed decisions and maximize yields.",
-      "ghLink": "https://github.com/MedELHattab/M_Citronix.git"
+      "title": "FC-2025",
+"description": "This web platform is designed to manage players and seamlessly add them to teams. It allows administrators to create and manage teams, assign players, and organize them based on various criteria such as position, skill level, and team strategy. The system provides an efficient way to maintain player rosters and team line-ups, making it easier for coaches, managers, and team leaders to manage their players.",
+      "ghLink": "https://github.com/hamzaelboukri/php.git"
     },
     {
       "imgPath": "https://example.com/batiCuisine.jpg",
-      "title": "BatiCuisine",
-      "description": "BatiCuisine is a Java application designed for professionals in the construction and renovation of kitchens. The application calculates the total cost of the work by taking into account the materials used and the cost of labor, which is billed on an hourly basis.",
+      "title": "Youdemy",
+"description": "Youdemy is an online learning platform designed to connect educators and learners in a dynamic digital environment. The platform allows instructors to create and manage educational courses, while participants can browse, join, and engage with the content. With features like course enrollment, user authentication, and structured learning paths, Youdemy provides a seamless and accessible experience for both teachers and students.",
       "ghLink": "https://github.com/MedELHattab/BatiCuisine.git"
     },
     {
       "imgPath": "https://example.com/medcommerce.png",
-      "title": "MedCommerce",
-      "description": "MedCommerce is a full-stack e-commerce platform designed to provide users with a seamless online shopping experience. The platform includes features such as product browsing, shopping cart management, user authentication, and order processing.",
-      "ghLink": "https://github.com/MedELHattab/MedCommerce.git"
+      "title": "GameHub",
+      "description": "GameHub is a full-stack game store platform that allows users to explore, purchase, and manage digital games with ease. The system enables sellers to add and manage their game listings, while buyers can browse available games, add them to their cart, and complete secure purchases. The platform includes features such as user authentication, game management, and order processing, providing a seamless experience for both sellers and buyers.",
+      "ghLink": "https://github.com/hamzaelboukri/game-storev2.git"
     },
     {
       "imgPath": "https://example.com/evanto.webp",
       "title": "Evanto",
-      "description": "Evanto is an event ticket management system designed to streamline the process of organizing, selling, and managing event tickets. The system provides event organizers with tools to create events, manage ticket sales, and track attendee information, while offering users a seamless experience for purchasing and managing their tickets.",
-      "ghLink": "https://github.com/MedELHattab/Evento.git"
+     "description": "This project is a collaborative event reservation platform designed to simplify the process of booking and managing events. The system allows users to browse, reserve, and manage event tickets with ease, while administrators have full control to add new events, manage existing ones, and oversee user accounts. A secure 'Forgot Password' feature is also implemented to enhance user experience. Built as part of a team project, this system reflects strong coordination and practical application of full-stack development concepts.",
+      "ghLink": "https://github.com/harit-ennair/D-veloppement-d-un-Clone-d-Eventbrite.git"
     }
   ]
