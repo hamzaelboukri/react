@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/MedELHattab"
+                href="https://github.com/hamzaelboukri"   a
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,19 +31,10 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
+         
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/mohamed-elarbi-elhattab/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/mohamed-elarbi-elhattab/"
+                href="https://www.linkedin.com/in/hamza-elboukri-374499335/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/mohamed-elarbi-elhattab/"
+                href="https://www.instagram.com/regex._01/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
