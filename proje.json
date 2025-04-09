@@ -1,25 +1,25 @@
 [
  
     {
-      "imgPath": "https://example.com/citronix.webp",
+      "imgPath": "https://i.imghippo.com/files/VfJ1385Uuo.png",
       "title": "FC-2025",
-"description": "This web platform is designed to manage players and seamlessly add them to teams. It allows administrators to create and manage teams, assign players, and organize them based on various criteria such as position, skill level, and team strategy. The system provides an efficient way to maintain player rosters and team line-ups, making it easier for coaches, managers, and team leaders to manage their players.",
+      "description": "This web platform is designed to manage players and seamlessly add them to teams. It allows administrators to create and manage teams, assign players, and organize them based on various criteria such as position, skill level, and team strategy. The system provides an efficient way to maintain player rosters and team line-ups, making it easier for coaches, managers, and team leaders to manage their players.",
       "ghLink": "https://github.com/hamzaelboukri/php.git"
     },
     {
-      "imgPath": "https://example.com/batiCuisine.jpg",
+      "imgPath": "https://i.imghippo.com/files/OTzY9170w.png",
       "title": "Youdemy",
-"description": "Youdemy is an online learning platform designed to connect educators and learners in a dynamic digital environment. The platform allows instructors to create and manage educational courses, while participants can browse, join, and engage with the content. With features like course enrollment, user authentication, and structured learning paths, Youdemy provides a seamless and accessible experience for both teachers and students.",
+      "description": "Youdemy is an online learning platform designed to connect educators and learners in a dynamic digital environment. The platform allows instructors to create and manage educational courses, while participants can browse, join, and engage with the content. With features like course enrollment, user authentication, and structured learning paths, Youdemy provides a seamless and accessible experience for both teachers and students.",
       "ghLink": "https://github.com/MedELHattab/BatiCuisine.git"
     },
     {
-      "imgPath": "https://example.com/medcommerce.png",
+      "imgPath": "https://i.imghippo.com/files/VQBf7306kk.png",
       "title": "GameHub",
       "description": "GameHub is a full-stack game store platform that allows users to explore, purchase, and manage digital games with ease. The system enables sellers to add and manage their game listings, while buyers can browse available games, add them to their cart, and complete secure purchases. The platform includes features such as user authentication, game management, and order processing, providing a seamless experience for both sellers and buyers.",
       "ghLink": "https://github.com/hamzaelboukri/game-storev2.git"
     },
     {
-      "imgPath": "https://example.com/evanto.webp",
+      "imgPath": "https://i.imghippo.com/files/yVPX5098P.png",
       "title": "Evanto",
      "description": "This project is a collaborative event reservation platform designed to simplify the process of booking and managing events. The system allows users to browse, reserve, and manage event tickets with ease, while administrators have full control to add new events, manage existing ones, and oversee user accounts. A secure 'Forgot Password' feature is also implemented to enhance user experience. Built as part of a team project, this system reflects strong coordination and practical application of full-stack development concepts.",
       "ghLink": "https://github.com/harit-ennair/D-veloppement-d-un-Clone-d-Eventbrite.git"
