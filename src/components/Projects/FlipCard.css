@@ -1,0 +1,74 @@
+/* FlipCard.css */
+.flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 100%;
+    perspective: 1000px; /* 3D effect */
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  /* Do the flip when hovering */
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  /* Position the front and back faces */
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+    border-radius: 5px;
+  }
+  
+  /* Front face styles (default view) */
+  .flip-card-front {
+    background-color: transparent;
+    color: white;
+  }
+  
+  /* Back face styles (shows on hover) */
+  .flip-card-back {
+    background-color: transparent;
+    color: white;
+    transform: rotateY(180deg);
+  }
+  
+  /* Style for language tags */
+  .language-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    margin-top: 10px;
+  }
+  
+  .language-tag {
+    background-color: #623686;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 25px;
+    font-weight: 500;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .language-tag:hover {
+    transform: translateY(-3px);
+    background-color: #7e48ad;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Make sure project cards have consistent height */
+  .project-card-view {
+    height: 100%;
+  }
